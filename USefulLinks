@@ -5,3 +5,8 @@ CSS:-https://www.w3schools.com/w3css/defaulT.asp
 NODE:-https://youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo&feature=shared
 
 FOR FIX THE ERROR:-GOOGLE AND CHATGPT
+
+TO COMMIT IN GIT HUB:-GIT STATUS
+GIT ADD .
+GIT COMMIT -M "SEQUENCE"
+GIT PUSH ORIGIN MAIN
